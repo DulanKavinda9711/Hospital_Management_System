@@ -1,1 +1,2 @@
 Hospital Management system-Spire Health Care Hospital
+Welcome to the Spire Health Care Hospital Automated Information System repository! Our goal is to enhance operational efficiency and streamline processes at Spire Health Care Hospital, a premier multi-specialty private hospital located in London. With the hospital's expanding business demands, we're committed to developing a robust information system that will alleviate staff workload. Here are some key features we're focusing on:
